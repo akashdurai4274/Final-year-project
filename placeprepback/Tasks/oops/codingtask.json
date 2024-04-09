@@ -1,0 +1,10 @@
+{
+  "problems": [
+    {
+      "id": 1,
+      "statement": "Write a class named 'Car' with the following attributes: make, model, year, color, and speed. Implement methods to accelerate and brake the car. The maximum speed should be capped at 120 mph. Write the class definition.",
+      "answer": "class Car {\n  String make;\n  String model;\n  int year;\n  String color;\n  int speed;\n\n  Car(this.make, this.model, this.year, this.color, this.speed);\n\n  void accelerate(int speedIncrement) {\n    speed += speedIncrement;\n    if (speed > 120) {\n      speed = 120;\n    }\n  }\n\n  void brake(int speedDecrement) {\n    speed -= speedDecrement;\n    if (speed < 0) {\n      speed = 0;\n    }\n  }\n}",
+      "hint": "Remember to cap the speed at 120 mph when accelerating."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+[
+  {
+    "question": "1. What is a class in object-oriented programming?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) A function",
+      "b) A variable",
+      "c) A blueprint for creating objects",
+      "d) A loop construct"
+    ]
+  },
+  {
+    "question": "2. What is an object in object-oriented programming?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) A data type",
+      "b) An instance of a class",
+      "c) A control structure",
+      "d) A built-in function"
+    ]
+  },
+  {
+    "question": "3. What is encapsulation?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) The bundling of data with the methods that operate on that data",
+      "b) The process of converting objects into strings",
+      "c) The inheritance of properties and behaviors from one class to another",
+      "d) The ability of objects to take multiple forms"
+    ]
+  },
+  {
+    "question": "4. What is inheritance?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) The process of bundling data with methods",
+      "b) The process of converting objects into strings",
+      "c) The ability of objects to take multiple forms",
+      "d) The mechanism by which a class can be derived from another class"
+    ]
+  },
+  {
+    "question": "5. What is polymorphism?",
+    "correctAnswerIndex": 2,
+    "options": [
+      "a) The process of converting objects into strings",
+      "b) The process of bundling data with methods",
+      "c) The ability of objects to take multiple forms",
+      "d) The inheritance of properties and behaviors from one class to another"
+    ]
+  },
+  {
+    "question": "6. What is a constructor?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) A method used for destroying objects",
+      "b) A special method used for initializing objects",
+      "c) A method used for copying objects",
+      "d) A method used for comparing objects"
+    ]
+  },
+  {
+    "question": "7. What is a destructor?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) A method used for destroying objects",
+      "b) A special method used for initializing objects",
+      "c) A method used for copying objects",
+      "d) A method used for comparing objects"
+    ]
+  },
+  {
+    "question": "8. What is the 'this' keyword used for in Java?",
+    "correctAnswerIndex": 3,
+    "options": [
+      "a) Referring to the superclass",
+      "b) Referring to a static variable",
+      "c) Referring to a local variable",
+      "d) Referring to the current object"
+    ]
+  },
+  {
+    "question": "9. What is method overriding?",
+    "correctAnswerIndex": 1,
+    "options": [
+      "a) The process of creating a new method",
+      "b) Redefining a method in the subclass that is already defined in the superclass",
+      "c) Deleting a method from a class",
+      "d) Renaming a method in a class"
+    ]
+  },
+  {
+    "question": "10. What is method overloading?",
+    "correctAnswerIndex": 0,
+    "options": [
+      "a) Defining multiple methods with the same name but different parameters",
+      "b) Redefining a method in the subclass that is already defined in the superclass",
+      "c) Deleting a method from a class",
+      "d) Renaming a method in a class"
+    ]
+  }
+]
+
